@@ -1,0 +1,17 @@
+{
+  "name": "GO2WISH — Your Wish • Our Service",
+  "short_name": "GO2WISH",
+  "description": "Custom gifts, printing, design, events and digital services.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06122c",
+  "theme_color": "#07142f",
+  "icons": [
+    {
+      "src": "assets/go2wish-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
