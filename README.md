@@ -10,8 +10,7 @@ A responsive, static mobile web app starter built with HTML, CSS, and JavaScript
 - `sw.js` — basic offline cache for HTTPS hosting
 - `assets/go2wish-logo.png` — supplied GO2WISH logo
 
-## WhatsApp number
-Your WhatsApp number is already configured in `app.js` as `9040669652`. If you ever need to change it, use the international format with digits only (country code + 91), without plus signs, spaces, or dashes.
+Your WhatsApp number is configured in app.js as 919040669652 (country code 91 followed by the 10-digit number 9040669652). Use the full international format with digits only, without plus signs, spaces, or dashes.
 
 ## Test on your phone
 You can open `index.html` locally for a quick layout preview. WhatsApp buttons and install/offline features work best when the app is hosted over HTTPS.
